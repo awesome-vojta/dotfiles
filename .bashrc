@@ -120,5 +120,4 @@ fi
 LS_COLORS=$LS_COLORS:'ow=1;34:' ; export LS_COLORS
 PROMPT_DIRTRIM=2
 
-
-export DISPLAY=172.29.144.1:0.0 # XMING Server
+source ~/.xming.prvt # git hidden
